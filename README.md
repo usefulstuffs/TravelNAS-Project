@@ -47,8 +47,8 @@ dtparam=eth_led1=14
 More info at [this link](https://raspberrytips.com/disable-leds-on-raspberry-pi/)
 
 ## Credits
-Raspberry Pi Foundation: article for hotspot
-CasaOS: NAS software used in this project
-Raspberry Tips: turning off leds
+- Raspberry Pi Foundation: article for hotspot
+- CasaOS: NAS software used in this project
+- Raspberry Tips: turning off leds
 
 ##### Copyright (C) 2024 Useful Stuffs
